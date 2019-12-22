@@ -1,0 +1,7 @@
+{
+    "moduleName":"LiSA.sync",
+    "main":"index.js",
+    "version":"1.0.0",
+    "tag":"file",
+    "tags": ["fileAdapter"]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "lisa.sync.fileadapter",
+  "version": "1.0.0",
+  "description": "LiSA.sync adapter",
+  "main": "index.js",
+  "dependencies": {
+    "lisa.utils": "^1.1.0",
+    "mkdirp": "^0.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apporoad/LiSA.sync.fileAdapter.js.git"
+  },
+  "author": "apporoad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apporoad/LiSA.sync.fileAdapter.js/issues"
+  },
+  "homepage": "https://github.com/apporoad/LiSA.sync.fileAdapter.js#readme"
+}
